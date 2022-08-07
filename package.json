@@ -2,7 +2,7 @@
   "name": "bereal",
   "version": "1.0.0",
   "description": "A Discord bot made to be like the app BeReal!",
-  "main": "Structures/bereal.js",
+  "main": "Structures/BeReal.js",
   "scripts": {
     "test": "nodemon -e js"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/itstylerrr/BeReal#readme",
   "dependencies": {
-    "discord.js": "^14.1.2"
+    "discord.js": "^14.1.2",
+    "ms": "^2.1.3"
   }
 }
