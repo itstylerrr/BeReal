@@ -1,0 +1,19 @@
+{
+  "name": "bereal",
+  "version": "1.0.0",
+  "description": "A Discord bot made to be like the app BeReal!",
+  "main": "Structures/bereal.js",
+  "scripts": {
+    "test": "nodemon -e js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itstylerrr/BeReal.git"
+  },
+  "author": "Greezy Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itstylerrr/BeReal/issues"
+  },
+  "homepage": "https://github.com/itstylerrr/BeReal#readme"
+}
