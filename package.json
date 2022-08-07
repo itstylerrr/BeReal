@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/itstylerrr/BeReal/issues"
   },
-  "homepage": "https://github.com/itstylerrr/BeReal#readme"
+  "homepage": "https://github.com/itstylerrr/BeReal#readme",
+  "dependencies": {
+    "discord.js": "^14.1.2"
+  }
 }
